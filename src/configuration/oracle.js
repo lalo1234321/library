@@ -1,5 +1,5 @@
 const oracledb = require('oracledb');
-oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT
+oracledb.outFormat = oracledb.OUT_FORMAT_OBJECT;
 
 cns = {
     user: 'libreria',
